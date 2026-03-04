@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://maikerukun-jp.github.io/A-J-Procedure/sitemap.xml

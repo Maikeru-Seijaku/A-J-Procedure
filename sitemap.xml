@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://maikerukun-jp.github.io/A-J-Procedure/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://maikerukun-jp.github.io/A-J-Procedure/</loc>
+</url>
+<url>
+<loc>https://maikerukun-jp.github.io/A-J-Procedure/the-aj-procedure/</loc>
+<lastmod>2026-03-01T20:50:12+02:00</lastmod>
+<image:image>
+<image:loc>https://maikerukun-jp.github.io/A-J-Procedure/media/posts/4/ai_study_kikaigakusyu.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://maikerukun-jp.github.io/A-J-Procedure/the-ajattjlpt-method/</loc>
+<lastmod>2026-03-01T19:38:33+02:00</lastmod>
+<image:image>
+<image:loc>https://maikerukun-jp.github.io/A-J-Procedure/media/posts/1/3-The-1st-tier-choice.png</image:loc>
+<image:title><![CDATA[The A+J Official Logo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://maikerukun-jp.github.io/A-J-Procedure/the-primary-directive-2/</loc>
+<lastmod>2026-02-07T14:04:06+02:00</lastmod>
+</url>
+</urlset>
