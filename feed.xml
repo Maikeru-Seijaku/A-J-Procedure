@@ -3,7 +3,7 @@
     <title>A+J Procedure</title>
     <link href="https://maikeru-seijaku.github.io/A-J-Procedure/feed.xml" rel="self" />
     <link href="https://maikeru-seijaku.github.io/A-J-Procedure" />
-    <updated>2026-03-06T18:09:33+02:00</updated>
+    <updated>2026-03-06T18:38:05+02:00</updated>
     <author>
         <name>Maikeru-Seijaku</name>
     </author>
@@ -29,21 +29,50 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/6/Himouto-uses-PC-silly.png" class="type:primaryImage" alt="" /></p>
-                <p data-path-to-node="2"> </p>
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li> </li>
+<li><a href="#mcetoc_1jj2041bu2v4">Protocol:</a></li>
+<li><a href="#mcetoc_1jj2041bu2v5">The Digital Shogun – Gaming as High-Frequency Immersion</a>
+<ul>
+<li>
+<ul>
+<li> </li>
+</ul>
+</li>
+<li> </li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj2041bu2v8">1. System Localization (The Hard Switch)</a></li>
+<li><a href="#mcetoc_1jj2041bu2v9">2. Strategic Selection: High-Speed vs. Narrative Input</a></li>
+<li><a href="#mcetoc_1jj2041bu2va">3. The "No-English" Firewall</a>
+<ul>
+<li> </li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj2041bu2vc">4. The "Text Hooking" Core (Visual Novels &amp; JRPGs)</a></li>
+<li><a href="#mcetoc_1jj2041bu2vd">5. The "OCR" Strike Team (Non-Hookable UI &amp; Modern AAA)</a></li>
+<li><a href="#mcetoc_1jj2041bu2ve">6. VR Immersion (Quest/PCVR)</a></li>
+<li> </li>
+<li><a href="#mcetoc_1jj2041bu2vg">7. The Essential "Native Logic" Stack</a></li>
+<li><a href="#mcetoc_1jj2041bu2vh">The Objective</a></li>
+</ul>
+</div>
 <p data-path-to-node="2"> </p>
-<h2 data-path-to-node="2"> </h2>
-<h2 class="align-center" data-path-to-node="2">Protocol:</h2>
-<h2 class="align-center" data-path-to-node="2">The Digital Shogun – Gaming as High-Frequency Immersion</h2>
-<h4> </h4>
+<h2 id="mcetoc_1jj2041bu2v3" data-path-to-node="2"></h2>
+<h2 id="mcetoc_1jj2041bu2v4" class="align-center" data-path-to-node="2">Protocol:</h2>
+<h2 id="mcetoc_1jj2041bu2v5" class="align-center" data-path-to-node="2">The Digital Shogun – Gaming as High-Frequency Immersion</h2>
+<h4 id="mcetoc_1jj2041bu2v6"></h4>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/6/Himouto-uses-PC.jpg" alt="" width="599" height="337" sizes="(max-width: 48em) 100vw, 768px" srcset="https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/6/responsive/Himouto-uses-PC-xs.jpg 300w ,https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/6/responsive/Himouto-uses-PC-sm.jpg 480w ,https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/6/responsive/Himouto-uses-PC-md.jpg 768w"></figure>
-<h3 class="align-center" data-path-to-node="2"> </h3>
+<h3 id="mcetoc_1jj2041bu2v7" class="align-center" data-path-to-node="2"></h3>
 <p> </p>
 <p data-path-to-node="3">Passive listening is only the baseline. To truly synchronize your brain with native Japanese logic, you must transition from a spectator to an active participant. Gaming represents the ultimate <strong data-path-to-node="3" data-index-in-node="194">"Force Entry"</strong> into the language, demanding instant recognition and subconscious reaction.</p>
 <p data-path-to-node="4">This protocol outlines the transformation of your workstation into a dedicated immersion terminal.</p>
 <p data-path-to-node="4"> </p>
 <p data-path-to-node="4"> </p>
 <p data-path-to-node="4"> </p>
-<h2 data-path-to-node="5"><strong data-path-to-node="5" data-index-in-node="0">1. System Localization (The Hard Switch)</strong></h2>
+<h2 id="mcetoc_1jj2041bu2v8" data-path-to-node="5"><strong data-path-to-node="5" data-index-in-node="0">1. System Localization (The Hard Switch)</strong></h2>
 <ul data-path-to-node="6">
 <li>
 <p data-path-to-node="6,0,0"><strong data-path-to-node="6,0,0" data-index-in-node="0">Global OS Overhaul:</strong> Before launching any software, ensure your Windows 11 environment is fully localized to Japanese.</p>
@@ -56,7 +85,7 @@
 </li>
 </ul>
 <p> </p>
-<h2 data-path-to-node="7"><strong data-path-to-node="7" data-index-in-node="0">2. Strategic Selection: High-Speed vs. Narrative Input</strong></h2>
+<h2 id="mcetoc_1jj2041bu2v9" data-path-to-node="7"><strong data-path-to-node="7" data-index-in-node="0">2. Strategic Selection: High-Speed vs. Narrative Input</strong></h2>
 <ul data-path-to-node="8">
 <li>
 <p data-path-to-node="8,0,0"><strong data-path-to-node="8,0,0" data-index-in-node="0">Tactical Response:</strong> In fast-paced titles or RPGs like <i data-path-to-node="8,0,0" data-index-in-node="53">Persona</i> and <i data-path-to-node="8,0,0" data-index-in-node="65">Final Fantasy</i>, prioritize audio callouts and combat barks. This conditions the brain to process Japanese commands under high-pressure, split-second conditions.</p>
@@ -69,7 +98,7 @@
 </li>
 </ul>
 <p> </p>
-<h2 data-path-to-node="9"><strong data-path-to-node="9" data-index-in-node="0">3. The "No-English" Firewall</strong></h2>
+<h2 id="mcetoc_1jj2041bu2va" data-path-to-node="9"><strong data-path-to-node="9" data-index-in-node="0">3. The "No-English" Firewall</strong></h2>
 <ul data-path-to-node="10">
 <li>
 <p data-path-to-node="10,0,0"><strong data-path-to-node="10,0,0" data-index-in-node="0">Zero-Translation Policy:</strong> Discard English subtitles immediately. When faced with unknown terms, use visual cues and gameplay context to "triangulate" the meaning.</p>
@@ -82,8 +111,8 @@
 </li>
 </ul>
 <hr data-path-to-node="11">
-<h3 data-path-to-node="12"> </h3>
-<h2 data-path-to-node="3"><strong data-path-to-node="3" data-index-in-node="0">4. The "Text Hooking" Core (Visual Novels &amp; JRPGs)</strong></h2>
+<h3 id="mcetoc_1jj2041bu2vb" data-path-to-node="12"></h3>
+<h2 id="mcetoc_1jj2041bu2vc" data-path-to-node="3"><strong data-path-to-node="3" data-index-in-node="0">4. The "Text Hooking" Core (Visual Novels &amp; JRPGs)</strong></h2>
 <p data-path-to-node="4">These tools extract the internal text stream and pipe it directly into a browser window where <strong data-path-to-node="4" data-index-in-node="94">Rikaitan</strong> can scan it instantly.</p>
 <ul data-path-to-node="5">
 <li>
@@ -94,7 +123,7 @@
 </li>
 </ul>
 <p> </p>
-<h2 data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="0">5. The "OCR" Strike Team (Non-Hookable UI &amp; Modern AAA)</strong></h2>
+<h2 id="mcetoc_1jj2041bu2vd" data-path-to-node="6"><strong data-path-to-node="6" data-index-in-node="0">5. The "OCR" Strike Team (Non-Hookable UI &amp; Modern AAA)</strong></h2>
 <p data-path-to-node="7">When the game engine hides its text (like in <i data-path-to-node="7" data-index-in-node="45">Ghost of Tsushima</i> or <i data-path-to-node="7" data-index-in-node="66">Persona 5</i>), you use <strong data-path-to-node="7" data-index-in-node="86">Optical Character Recognition</strong> to "burn" the image into readable text.</p>
 <ul data-path-to-node="8">
 <li>
@@ -108,7 +137,7 @@
 </li>
 </ul>
 <p> </p>
-<h2 data-path-to-node="9"><strong data-path-to-node="9" data-index-in-node="0">6. VR Immersion (Quest/PCVR)</strong></h2>
+<h2 id="mcetoc_1jj2041bu2ve" data-path-to-node="9"><strong data-path-to-node="9" data-index-in-node="0">6. VR Immersion (Quest/PCVR)</strong></h2>
 <p data-path-to-node="10">For 360-degree environments like <i data-path-to-node="10" data-index-in-node="33">KAMITSUBAKI CITY VR</i>, you need an overlay that doesn't break the presence.</p>
 <ul data-path-to-node="11">
 <li>
@@ -117,8 +146,8 @@
 </ul>
 <p> </p>
 <hr data-path-to-node="12">
-<h2 data-path-to-node="13"> </h2>
-<h2><strong data-path-to-node="13" data-index-in-node="0">7. The Essential "Native Logic" Stack</strong></h2>
+<h2 id="mcetoc_1jj2041bu2vf" data-path-to-node="13"></h2>
+<h2 id="mcetoc_1jj2041bu2vg"><strong data-path-to-node="13" data-index-in-node="0">7. The Essential "Native Logic" Stack</strong></h2>
 <table data-path-to-node="14">
 <thead>
 <tr>
@@ -149,7 +178,7 @@
 <p> </p>
 <p> </p>
 <p> </p>
-<h2 data-path-to-node="12"><strong data-path-to-node="12" data-index-in-node="0">The Objective</strong></h2>
+<h2 id="mcetoc_1jj2041bu2vh" data-path-to-node="12"><strong data-path-to-node="12" data-index-in-node="0">The Objective</strong></h2>
 <p data-path-to-node="13">The goal of <strong data-path-to-node="13" data-index-in-node="12">Gaming for Immersion</strong> is to reach the singularity: the point where you are no longer "playing a game in Japanese," but simply <strong data-path-to-node="13" data-index-in-node="137">living</strong> within a Japanese digital world. Whether you are a casual player or a developer, this protocol ensures every hour at the keys is a direct contribution to your 100% nativity goal.</p>
 <p data-path-to-node="13"> </p>
 <p data-path-to-node="13"> </p>
@@ -178,10 +207,18 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/5/KJ_20250403_01.jpg" class="type:primaryImage" alt="" /></p>
-                <h4 data-path-to-node="2"><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPoT7NrY_ca-3O2tdfwwSWG9Geak_BNNgSgFRIdyG21VeW8xTjdenayek1M5HVZsBh6wkgsb1Mg2hNyDAUaK_xH5Ox-V6uFV1W15VEvEecEsNUFDqiYvLpODY2_8BAGxIzkBoULCrsRgCV/s800/group_student.png" alt="集合している人たちのイラスト（学生） | かわいいフリー素材集 いらすとや" data-is-external-image="true"></h4>
-<p> </p>
-<h4 data-path-to-node="2">Welcome to the A+J Procedure. If you think being 'Native' is just about memorizing Kanji or passing a test, you are only seeing half the code. To truly live like a Japanese person, you have to move beyond the books and start behaving with a Japanese heart.</h4>
-<h4 data-path-to-node="3">In this post, I am breaking down the hidden 'logic' of Japanese behaviour. It’s about more than just words—it’s about finding serenity, maintaining a pure heart, and treating every interaction with the discipline of a Shogun. Whether you are just starting your journey or you are deep in the AJATT trenches like me, these laws will change how you see the world.</h4>
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li> </li>
+<li><a href="#mcetoc_1jj204hal2vu">Welcome to the A+J Procedure. If you think being 'Native' is just about memorizing Kanji or passing a test, you are only seeing half the code. To truly live like a Japanese person, you have to move beyond the books and start behaving with a Japanese heart.</a></li>
+<li><a href="#mcetoc_1jj204hal2vv">In this post, I am breaking down the hidden 'logic' of Japanese behaviour. It’s about more than just words—it’s about finding serenity, maintaining a pure heart, and treating every interaction with the discipline of a Shogun. Whether you are just starting your journey or you are deep in the AJATT trenches like me, these laws will change how you see the world.</a></li>
+</ul>
+</div>
+<h4 id="mcetoc_1jj204hal2vs" data-path-to-node="2"></h4>
+<p id="mcetoc_1jj204hal2vt" data-path-to-node="2"><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPoT7NrY_ca-3O2tdfwwSWG9Geak_BNNgSgFRIdyG21VeW8xTjdenayek1M5HVZsBh6wkgsb1Mg2hNyDAUaK_xH5Ox-V6uFV1W15VEvEecEsNUFDqiYvLpODY2_8BAGxIzkBoULCrsRgCV/s800/group_student.png" alt="集合している人たちのイラスト（学生） | かわいいフリー素材集 いらすとや" data-is-external-image="true"></p>
+<h4 id="mcetoc_1jj204hal2vu" data-path-to-node="2">Welcome to the A+J Procedure. If you think being 'Native' is just about memorizing Kanji or passing a test, you are only seeing half the code. To truly live like a Japanese person, you have to move beyond the books and start behaving with a Japanese heart.</h4>
+<h4 id="mcetoc_1jj204hal2vv" data-path-to-node="3">In this post, I am breaking down the hidden 'logic' of Japanese behaviour. It’s about more than just words—it’s about finding serenity, maintaining a pure heart, and treating every interaction with the discipline of a Shogun. Whether you are just starting your journey or you are deep in the AJATT trenches like me, these laws will change how you see the world.</h4>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -286,17 +323,166 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/4/ai_study_kikaigakusyu.png" class="type:primaryImage" alt="" /></p>
-                <h1><figure class="post__image post__image--center"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Lcv21AgrDnvM6ZypK6rRHmMd0r91BqWxj-SVP6VXZqXseT9Ofk-KW-0XrxK8NLrtKyQYTqhH5ATwmiZHSG0jvQ8iBmkJ-e19oEsl6Ma9QGLelNvj36c9jLhADqsJ_2mYemRbdS1r2pnR/s800/ai_character4_strong.png" alt="成長する人工知能のキャラクター | かわいいフリー素材集 いらすとや" width="317" height="383" data-is-external-image="true"></figure></h1>
-<h1 class="align-center">📝 Method Overview</h1>
+                <h1 id="mcetoc_1jj1uqrcc2r4"></h1>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li> </li>
+<li><a href="#mcetoc_1jj1uqrcc2r7">📝 Method Overview</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2r9">⚙️ System Pillars</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2ra">📈 Progression Path</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2rb">⏱️ Standard Operating Procedure</a>
+<ul>
+<li>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2rc">(Daily Workflow)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2re">1. System Maintenance (SRS &amp; Review)</a></li>
+</ul>
+</li>
+<li> </li>
+<li><a href="#mcetoc_1jj1uqrcc2rg">2. High-Cognition Immersion (Active)</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2rh">3. Low-Cognition Immersion (Passive)</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2ri">4. End-of-Day Audit</a>
+<ul>
+<li>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2rj">Pomodoro O and X in A+J</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2rk">🚫 WHERE TO BAN POMODORO</a></li>
+<li> </li>
+<li><a href="#mcetoc_1jj1uqrcc2rm">The "Immersion Sector"</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2rn">The "A+J" Protocol:</a></li>
+<li> </li>
+<li><a href="#mcetoc_1jj1uqrcc2rp">⚠️ Temporal Strategy (Pomodoro Protocol)</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2rq">Is Genki truly essential for implementing the Pomodoro technique?</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2rr">🛡️ The "Genki" Hazard Warning</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2rt">Can you explain what 25/5 intervals and 50/10 intervals are, recently?</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2ru">🏛️ The Interval Breakdown</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2rv">🕒 What is "40 Minutes"?</a>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li> </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2s2">🛡️ A+J Strategic Reminder</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2s3">🏛️ Timer Setup: The Temporal Protocol</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2s5">1. Recommended Tools</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2s6">2. Tactical Configuration</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2s7">3. The "Attention Threshold" Logic</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2s8">🛡️ Final Strategy Note for the procedure</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2s9">How many sets of Pomodoro for Anki and Genki?</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2sa">(or any other JLPT books)</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2sb">🏛️ The A+J Set Allocation</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2sc">🛡️ Tactical Guidelines for Each Sector</a>
+<ul>
+<li>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2sd">Anki (The Maintenance State)</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2se">Genki &amp; JLPT Books (The Structural State)</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2sf">📊 Daily Quota Protocol</a></li>
+<li> </li>
+<li><a href="#mcetoc_1jj1uqrcc2sh">🗾 Why this matters for the General Public</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2si">Immersion first or...?</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2sj">🏛️ The Priority Hierarchy (The "Order of Battle")</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2sk">🔄 The Execution Order</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2sl">🛡️ Why "Immersion First"?</a></li>
+<li> </li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2sn">What should I do in A+J at the first start?</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2so">🏛️ Phase 1: The First 24 Hours (SOP)</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2sp">1. Immediate Environmental Virtualization</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2sq">2. Tactical Tool Installation</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2sr">3. Initial Literacy &amp; Lexical Priming</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2ss">🛡️ The Hierarchy of Operations (Priority Order)</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2st">🗾 Why this order is mandatory:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2su">Is Anki in A+J working well at the beginning?</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2sv">🏛️ The Anki First-Start Protocol</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2t1">1. The "Mining" Prohibition</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2t2">2. The 1,000-Word Threshold</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2t3">3. Strategic Limitations</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2t4">⚙️ SRS Strategy (Phase 1)</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2t5">🛡️ The Verdict</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1jj1uqrcc2t6">🔗 Resources &amp; Tools</a></li>
+<li><a href="#mcetoc_1jj1uqrcc2t7">🛠️ Technical Stack Audit</a>
+<ul>
+<li><a href="#mcetoc_1jj1uqrcc2t8">Failure Points (Anti-Patterns)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Lcv21AgrDnvM6ZypK6rRHmMd0r91BqWxj-SVP6VXZqXseT9Ofk-KW-0XrxK8NLrtKyQYTqhH5ATwmiZHSG0jvQ8iBmkJ-e19oEsl6Ma9QGLelNvj36c9jLhADqsJ_2mYemRbdS1r2pnR/s800/ai_character4_strong.png" alt="成長する人工知能のキャラクター | かわいいフリー素材集 いらすとや" width="317" height="383" data-is-external-image="true"></figure>
+<h1 id="mcetoc_1jj1uqrcc2r7" class="align-center">📝 Method Overview</h1>
 <p> </p>
 <ul>
 <li class="align-left"><strong>Objective:</strong> Combine the high-volume immersion of <strong>AJATT</strong> (All Japanese All The Time) with the structured milestones of the <strong>JLPT</strong> (N5-N1).</li>
-<li> </li>
+</ul>
+<p> </p>
+<ul>
 <li class="align-left"><strong>The Goal:</strong> Achieving "natural" fluency while ensuring the formal requirements for certification are met.<hr></li>
 </ul>
-<h2> </h2>
-<h2 class="align-center">⚙️ System Pillars</h2>
-<p class="align-center"> </p>
+<h2 id="mcetoc_1jj1uqrcc2r9" class="align-center">⚙️ System Pillars</h2>
 <ul class="align-center">
 <li class="align-left"><strong>Active Immersion:</strong> Focused time spent consuming native content (Anime, Manga, Literature, YouTube, etc.) with a dictionary.</li>
 <li class="align-left"> </li>
@@ -306,9 +492,8 @@
 <li class="align-left"><strong>Grammar Anchoring:</strong> Using JLPT-specific textbooks (like Shin Kanzen Master or Sou Matome or any) to provide logic to the immersion.<hr>
 <ul>
 <li>
-<h3 class="align-left">📈 Progression Path</h3>
+<h3 id="mcetoc_1jj1uqrcc2ra" class="align-left">📈 Progression Path</h3>
 </li>
-<li> </li>
 <li>​<strong>[ ] Phase 1: Foundational Literacy</strong>
 <ul>
 <li>Master Orthography (Kana) and basic Kanji radicals.</li>
@@ -334,12 +519,12 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h2><strong>⏱️ Standard Operating Procedure</strong></h2>
-<h4><strong>(Daily Workflow)</strong></h4>
-<h2><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwGoIL1bAcqwunBR5RYMtucFd06B2fUelM5ih29bduC4sbEmVOMLgjkQN98I5FFWkfXXdzYeJYuuUnDr47knMUT-8zr5Zrbrk_Ayg5TgKbkhkdR33So-ZRYsa_6IHinQv6GY5Rg1-BT8/s800/studynight_boy.png" alt="勉強のイラスト「テスト勉強・男の子」 | かわいいフリー素材集 いらすとや" width="364" height="394" data-is-external-image="true"></h2>
+<h2 id="mcetoc_1jj1uqrcc2rb"><strong>⏱️ Standard Operating Procedure</strong></h2>
+<h4 id="mcetoc_1jj1uqrcc2rc"><strong>(Daily Workflow)</strong></h4>
+<p id="mcetoc_1jj1uqrcc2rd"><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwGoIL1bAcqwunBR5RYMtucFd06B2fUelM5ih29bduC4sbEmVOMLgjkQN98I5FFWkfXXdzYeJYuuUnDr47knMUT-8zr5Zrbrk_Ayg5TgKbkhkdR33So-ZRYsa_6IHinQv6GY5Rg1-BT8/s800/studynight_boy.png" alt="勉強のイラスト「テスト勉強・男の子」 | かわいいフリー素材集 いらすとや" width="364" height="394" data-is-external-image="true"></p>
 </li>
 <li>
-<h2><br><strong>1. System Maintenance (SRS &amp; Review)</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2re"><br><strong>1. System Maintenance (SRS &amp; Review)</strong></h2>
 </li>
 <li> </li>
 <li class="align-left"><strong>Protocol:</strong> Complete all due reviews immediately upon waking to utilize the "primacy effect."</li>
@@ -352,8 +537,8 @@
 </li>
 </ul>
 <p class="align-left">[ ] <strong>New Cards:</strong> 10–20 cards/day (Adjust based on retention).</p>
-<h1 class="align-center"> </h1>
-<h1 class="align-center"><br><strong>2. High-Cognition Immersion (Active)</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2rf" class="align-center"></h1>
+<h1 id="mcetoc_1jj1uqrcc2rg" class="align-center"><br><strong>2. High-Cognition Immersion (Active)</strong></h1>
 <p> </p>
 <ul class="align-center">
 <li class="align-left"><strong>Protocol:</strong> Undivided attention on native media. Dictionary lookups (<code>Cmd+F</code> / <code>Shift</code>) are mandatory for unknown terms ($i+1$).</li>
@@ -366,7 +551,7 @@
 </li>
 </ul>
 <p class="align-left">[ ] <strong>Mining Yield:</strong> Create 1 card for every 10–15 minutes of active immersion.</p>
-<h1 class="align-center"><br><strong>3. Low-Cognition Immersion (Passive)</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2rh" class="align-center"><br><strong>3. Low-Cognition Immersion (Passive)</strong></h1>
 <p class="align-center"> </p>
 <ul class="align-center">
 <li class="align-left"><strong>Protocol:</strong> Continuous audio playback during all non-cognitive tasks (commuting, chores, exercise, work).</li>
@@ -378,7 +563,7 @@
 </ul>
 </li>
 </ul>
-<h1 class="align-center"><strong>4. End-of-Day Audit</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2ri" class="align-center"><strong>4. End-of-Day Audit</strong></h1>
 <p class="align-center"> </p>
 <p class="align-center"> </p>
 <ul class="align-center">
@@ -389,14 +574,14 @@
 <p> </p>
 <ul class="align-center">
 <li>
-<h3 class="align-center"><strong>Pomodoro O and X in A+J</strong></h3>
-<h1 class="align-center">🚫 WHERE TO BAN POMODORO</h1>
+<h3 id="mcetoc_1jj1uqrcc2rj" class="align-center"><strong>Pomodoro O and X in A+J</strong></h3>
+<h1 id="mcetoc_1jj1uqrcc2rk" class="align-center">🚫 WHERE TO BAN POMODORO</h1>
 </li>
 <li> </li>
 <li><figure class="post__image post__image--center"><img loading="lazy"  src="https://thumb.ac-illust.com/94/94a99ad5db8bf71dcd87fa4a434660b5_t.jpeg" alt="ひらめくビジネスマン07に似ているイラスト素材｜無料イラスト・フリー素材なら「イラストAC」" width="274" height="383" data-is-external-image="true"></figure></li>
 <li>
-<h1 class="align-center"> </h1>
-<h1 class="align-center">The "Immersion Sector"</h1>
+<h1 id="mcetoc_1jj1uqrcc2rl" class="align-center"></h1>
+<h1 id="mcetoc_1jj1uqrcc2rm" class="align-center">The "Immersion Sector"</h1>
 <p class="align-left"><br><strong>Do NOT use Pomodoro for Active Immersion (Reading/Listening).</strong></p>
 </li>
 <li class="align-left"><strong>The Reason:</strong> Immersion relies on "Flow State." If you are 40 minutes into a visual novel or an anime and the timer goes <i>DING</i>, you snap out of the Japanese world and back into your physical room. This breaks the "virtualization."</li>
@@ -412,10 +597,10 @@
 <p> </p>
 <ul class="align-center">
 <li>
-<h2><strong>The "A+J" Protocol:</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2rn"><strong>The "A+J" Protocol:</strong></h2>
 </li>
 <li>
-<h2> </h2>
+<h2 id="mcetoc_1jj1uqrcc2ro"></h2>
 <ul>
 <li class="align-left"><strong>Anki Reviews:</strong> Use <strong>25/5 intervals</strong>. This keeps your decision speed high and prevents "zombie mode" (staring at a card for 30 seconds).</li>
 </ul>
@@ -423,7 +608,7 @@
 <li> 
 <ul>
 <li class="align-left"><strong>Grammar Study (Shin Kanzen Master):</strong> Use <strong>50/10 intervals</strong>. Deep focus is needed to understand the logic, but you need a break to reset before the next concept.<hr>
-<h2><br><strong>⚠️ Temporal Strategy (Pomodoro Protocol)</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2rp"><br><strong>⚠️ Temporal Strategy (Pomodoro Protocol)</strong></h2>
 </li>
 </ul>
 </li>
@@ -445,7 +630,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 class="align-center"><strong>Is Genki truly essential for implementing the Pomodoro technique?</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2rq" class="align-center"><strong>Is Genki truly essential for implementing the Pomodoro technique?</strong></h1>
 </li>
 </ul>
 <p class="align-center"> </p>
@@ -474,8 +659,8 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1><strong>🛡️ The "Genki" Hazard Warning</strong></h1>
-<h4 class="align-center"><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCjpy3dqeEjZOjrTLyms9PQdtc7MTgbqsb-rNEj8siADOosa56HqbmW0PSnOScheOAw-_d6iwZjGsV5t8q8LMPi2DVB7Da5DxDDuFCKnvhmSBw6NYzOdhKxCjtJ7_5Ija1eb_DnC5_kqWQ/s400/siren_keihou_ijou_kenchi_man.png" alt="警報に気づいた人のイラスト（男性）" width="280" height="280" data-is-external-image="true"><br><br>&gt; <br><br><em><strong>⚠️ WARNING:</strong> Do not mistake Genki for immersion. Reading the dialogues in Genki counts as <strong>Study Time</strong> (Grind), not <strong>Immersion Time</strong>. It does not count toward your "3.0 Hours Active Immersion" KPI. It is supplementary "Grammar Anchoring" only.</em></h4>
+<h1 id="mcetoc_1jj1uqrcc2rr"><strong>🛡️ The "Genki" Hazard Warning</strong></h1>
+<p id="mcetoc_1jj1uqrcc2rs" class="align-center"><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCjpy3dqeEjZOjrTLyms9PQdtc7MTgbqsb-rNEj8siADOosa56HqbmW0PSnOScheOAw-_d6iwZjGsV5t8q8LMPi2DVB7Da5DxDDuFCKnvhmSBw6NYzOdhKxCjtJ7_5Ija1eb_DnC5_kqWQ/s400/siren_keihou_ijou_kenchi_man.png" alt="警報に気づいた人のイラスト（男性）" width="280" height="280" data-is-external-image="true"><br><br>&gt; <br><br><em><strong>⚠️ WARNING:</strong> Do not mistake Genki for immersion. Reading the dialogues in Genki counts as <strong>Study Time</strong> (Grind), not <strong>Immersion Time</strong>. It does not count toward your "3.0 Hours Active Immersion" KPI. It is supplementary "Grammar Anchoring" only.</em></p>
 </li>
 <li><hr></li>
 </ul>
@@ -483,7 +668,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 class="align-center"><strong>Can you explain what 25/5 intervals and 50/10 intervals are, recently?</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2rt" class="align-center"><strong>Can you explain what 25/5 intervals and 50/10 intervals are, recently?</strong></h1>
 </li>
 </ul>
 <p class="align-center"> </p>
@@ -493,7 +678,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h2 class="align-center"><strong>🏛️ The Interval Breakdown</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2ru" class="align-center"><strong>🏛️ The Interval Breakdown</strong></h2>
 <p> </p>
 <table>
 <tbody>
@@ -517,10 +702,10 @@
 <p> </p>
 <hr></li>
 <li>
-<h1 class="align-center"><strong>🕒 What is "40 Minutes"?</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2rv" class="align-center"><strong>🕒 What is "40 Minutes"?</strong></h1>
 </li>
 <li>
-<h1 class="align-center"><figure class="post__image post__image--center"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwpeMPVVjq7RvzMdjof3WXwpUXTZdFKXjmfzRRo3buxf13ydquLpvPWR5kl8AycGrnOTx0qODbk_nJXz1prTLsaAJoZykWKhY2QQaPeIVm3YWvsy0win5EES3aMRIrb5MqU6z8iFvKgslJ/s800/komatta_woman2.png" alt="困る女性のイラスト | かわいいフリー素材集 いらすとや" width="329" height="366" data-is-external-image="true"></figure></h1>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwpeMPVVjq7RvzMdjof3WXwpUXTZdFKXjmfzRRo3buxf13ydquLpvPWR5kl8AycGrnOTx0qODbk_nJXz1prTLsaAJoZykWKhY2QQaPeIVm3YWvsy0win5EES3aMRIrb5MqU6z8iFvKgslJ/s800/komatta_woman2.png" alt="困る女性のイラスト | かわいいフリー素材集 いらすとや" width="329" height="366" data-is-external-image="true"></figure>
 <p><br>In cognitive science and the A+J framework, <strong>40 minutes</strong> is often cited as the <strong>"Attention Threshold."</strong> * <strong>The Decay Point:</strong> For most humans, the ability to maintain "Deep Focus" on high-intensity tasks (like analysing Japanese grammar) begins to drop sharply after 40 minutes.</p>
 </li>
 </ul>
@@ -528,14 +713,14 @@
 <ul class="align-center">
 <li><strong>The "Zombie Mode" Risk:</strong> If you push past 40 minutes without a break, you often enter a state of "passive staring," where you are looking at your textbook or Anki screen but no longer absorbing information.</li>
 </ul>
-<h6 class="align-center"> </h6>
+<h6 id="mcetoc_1jj1uqrcc2s1" class="align-center"></h6>
 <ul class="align-center">
 <li><strong>Tactical Application:</strong> This is why we recommend the <strong>50/10</strong> interval for Genki; it pushes you slightly past that 40-minute mark to finish a section, but mandates a 10-minute "Reset" to clear your brain's cache.</li>
 </ul>
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h3><strong>🛡️ A+J Strategic Reminder</strong></h3>
+<h3 id="mcetoc_1jj1uqrcc2s2"><strong>🛡️ A+J Strategic Reminder</strong></h3>
 </li>
 <li> </li>
 <li class="align-left"><strong>Apply these to:</strong> Anki, Genki, and JLPT drill books.</li>
@@ -547,7 +732,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 class="align-center"><strong>🏛️ Timer Setup: The Temporal Protocol</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2s3" class="align-center"><strong>🏛️ Timer Setup: The Temporal Protocol</strong></h1>
 <p><br>For a professional and "Pure Heart" setup, we recommend using open-source or system-native tools to avoid "Pricing Terrorists" and unnecessary distractions.</p>
 </li>
 </ul>
@@ -555,10 +740,10 @@
 <p> </p>
 <ul class="align-center">
 <li>
-<h2><strong><figure class="post__image post__image--center"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf56lPbdkfbFwEDUyPQMLnb6-Q-go7qjrpyHrw6ZwxLwZvRAjFcQPU1-lyLSOBLHoDA22HXvBvHuPLSOHcwklv73yJDtMLNhCSFZmQkkhBbU4TvsZnkQ6W7bb3fgjUpliZKOX1Njn9YLkR/s800/denkyuu_on.png" alt="光る電球のイラスト | かわいいフリー素材集 いらすとや" width="188" height="233" data-is-external-image="true"></figure></strong></h2>
+<figure class="post__image post__image--center"><strong><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf56lPbdkfbFwEDUyPQMLnb6-Q-go7qjrpyHrw6ZwxLwZvRAjFcQPU1-lyLSOBLHoDA22HXvBvHuPLSOHcwklv73yJDtMLNhCSFZmQkkhBbU4TvsZnkQ6W7bb3fgjUpliZKOX1Njn9YLkR/s800/denkyuu_on.png" alt="光る電球のイラスト | かわいいフリー素材集 いらすとや" width="188" height="233" data-is-external-image="true"></figure></strong></p>
 </li>
 <li>
-<h2><strong>1. Recommended Tools</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2s5"><strong>1. Recommended Tools</strong></h2>
 </li>
 <li> </li>
 <li> </li>
@@ -577,7 +762,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 class="align-center"><strong>2. Tactical Configuration</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2s6" class="align-center"><strong>2. Tactical Configuration</strong></h1>
 <p> </p>
 <table>
 <tbody>
@@ -606,7 +791,7 @@
 <p> </p>
 <hr></li>
 <li>
-<h2><strong>3. The "Attention Threshold" Logic</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2s7"><strong>3. The "Attention Threshold" Logic</strong></h2>
 </li>
 <li> </li>
 <li class="align-left"><strong>The 40-Minute Rule:</strong> Scientific observation suggests that cognitive performance in high-intensity language analysis peaks at 40 minutes and declines thereafter.</li>
@@ -617,7 +802,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 class="align-center"><strong>🛡️ Final Strategy Note for the procedure</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2s8" class="align-center"><strong>🛡️ Final Strategy Note for the procedure</strong></h1>
 <p><br>"<em>Timers are for the Machine (Anki/Genki). The Soul (Immersion) requires no clock. If you find yourself checking the time during an anime, your content is not engaging enough—switch to a higher-interest 'Sector' immediately.</em>"</p>
 </li>
 </ul>
@@ -633,10 +818,10 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h2 class="align-center"><strong>How many sets of Pomodoro for Anki and Genki?</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2s9" class="align-center"><strong>How many sets of Pomodoro for Anki and Genki?</strong></h2>
 </li>
 <li>
-<h3 class="align-center"><strong>(or any other JLPT books)</strong></h3>
+<h3 id="mcetoc_1jj1uqrcc2sa" class="align-center"><strong>(or any other JLPT books)</strong></h3>
 </li>
 </ul>
 <p class="align-center"> </p>
@@ -646,7 +831,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h2 class="align-center"><strong>🏛️ The A+J Set Allocation</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2sb" class="align-center"><strong>🏛️ The A+J Set Allocation</strong></h2>
 <p> </p>
 <table>
 <tbody>
@@ -676,13 +861,13 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 class="align-center"><strong>🛡️ Tactical Guidelines for Each Sector</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2sc" class="align-center"><strong>🛡️ Tactical Guidelines for Each Sector</strong></h1>
 </li>
 </ul>
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h3><strong>Anki (The Maintenance State)</strong></h3>
+<h3 id="mcetoc_1jj1uqrcc2sd"><strong>Anki (The Maintenance State)</strong></h3>
 </li>
 <li> </li>
 <li> </li>
@@ -694,10 +879,10 @@
 </ul>
 <p class="align-center"> </p>
 <p> </p>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://cdn.webshopapp.com/shops/224111/files/428363861/340x200x1/image.jpg" alt="☞ JLPT(All) - JPT EUROPE LTD T/A JP BOOKS" width="537" height="315" data-is-external-image="true"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://cdn.webshopapp.com/shops/224111/files/428363861/340x200x1/image.jpg" alt="☞ JLPT(All) - JPT EUROPE LTD T/A JP BOOKS" width="448" height="263" data-is-external-image="true"></figure>
 <ul class="align-center">
 <li>
-<h3><strong>Genki &amp; JLPT Books (The Structural State)</strong></h3>
+<h3 id="mcetoc_1jj1uqrcc2se"><strong>Genki &amp; JLPT Books (The Structural State)</strong></h3>
 </li>
 <li> </li>
 <li> </li>
@@ -707,10 +892,10 @@
 <li class="align-left"> </li>
 <li class="align-left"><strong>The "Decay" Rule:</strong> After 100 minutes of technical grammar analysis, the "Attention Threshold" is usually exhausted; stop immediately to protect your "Pure Heart" and mental energy for immersion.<hr></li>
 <li>
-<h2><strong>📊 Daily Quota Protocol</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2sf"><strong>📊 Daily Quota Protocol</strong></h2>
 </li>
 <li>
-<h2> </h2>
+<h2 id="mcetoc_1jj1uqrcc2sg"></h2>
 <ul>
 <li class="align-left"><strong>Maintenance (Anki):</strong> Maximum 2 x 25-min sets. Focus on velocity.</li>
 <li> </li>
@@ -724,7 +909,7 @@
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRzZg3N-NBIMvzMd7VjBHj-fHduH6PqqNNgbegZahiZzRF0MbJaEzlAoyuzo3lT3CbZoGQklIFL4dG5Rq3lS9wE8yL2NXSdA498yNG2bWVvOPR0ZnjfzkOkze6UyxWfbIea34Vnsa5rFU/s800/figure_question.png" alt="クエスチョンマークを出している人のイラスト（棒人間） | かわいい ..." width="200" height="274" data-is-external-image="true"></figure>
 <ul class="align-center">
 <li class="align-center">
-<h2><strong>🗾 Why this matters for the General Public</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2sh"><strong>🗾 Why this matters for the General Public</strong></h2>
 <p><br>Most people fail because they spend 4 hours on Genki and 0 hours on Anime. This set-limit protocol forces the user to finish their "chores" quickly so they can return to the "Main Tank": <strong>Total Immersion</strong>.</p>
 </li>
 <li><hr></li>
@@ -738,7 +923,7 @@
 <p class="align-center"> </p>
 <ul>
 <li>
-<h1 class="align-center"><strong>Immersion first or...?</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2si" class="align-center"><strong>Immersion first or...?</strong></h1>
 </li>
 </ul>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOii5gmD9kcxY1ZWXRoTeR2YmfT7tsaQpgr4KMgeMiXGWab_V6xMhptnSAT9UhPvvvF4Y3BDHguVwRZqHcViulkszpmBf0lOYIUyZFnG44jwJRcUK98uvIhkauiAgLYXbbFOOgOzhFPp0/s800/fukidashi7_man.png" alt="いろいろな考え事をしている人たちのイラスト（ふきだし） | かわいいフリー素材集 いらすとや" width="346" height="346" data-is-external-image="true"></figure>
@@ -749,7 +934,7 @@
 <p> </p>
 <ul>
 <li>
-<h2 class="align-center"><strong>🏛️ The Priority Hierarchy (The "Order of Battle")</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2sj" class="align-center"><strong>🏛️ The Priority Hierarchy (The "Order of Battle")</strong></h2>
 </li>
 <li> </li>
 <li><strong>Immersion (The Foundation)</strong>: You must begin consuming native content immediately, even before you understand it, to train the brain's phonological processing.</li>
@@ -762,7 +947,7 @@
 <p> </p>
 <ul>
 <li>
-<h2><strong>🔄 The Execution Order</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2sk"><strong>🔄 The Execution Order</strong></h2>
 </li>
 <li> </li>
 <li><strong>Step 1: Immediate Immersion</strong>: Start passive and active immersion on Day 1 to acclimate to the "sound" of the language.</li>
@@ -776,11 +961,11 @@
 <p> </p>
 <ul>
 <li>
-<h2 class="align-center"><strong>🛡️ Why "Immersion First"?</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2sl" class="align-center"><strong>🛡️ Why "Immersion First"?</strong></h2>
 </li>
 <li> </li>
 <li>
-<h2 class="align-center"> </h2>
+<h2 id="mcetoc_1jj1uqrcc2sm" class="align-center"></h2>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://liimo.lemonkai.social/wp-content/uploads/2016/10/%E3%83%A4%E3%83%83%E3%82%BF%E3%83%BC%E7%94%B7%E6%80%A7-1.png" alt="利用者様のご就職が決定！！ - 東京・大阪の就労移行支援 檸檬会" width="339" height="320" data-is-external-image="true"></figure><br>If a student studies grammar first without immersion, they build a "Translation Engine" in their head that is slow and prone to error. By prioritizing immersion, the student builds a <strong>"Native Engine"</strong> that eventually understands Japanese without needing to "think" about it.</p>
 </li>
 <li><hr></li>
@@ -791,7 +976,7 @@
 <p> </p>
 <ul>
 <li>
-<h1 class="align-center"><strong>What should I do in A+J at the first start?</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2sn" class="align-center"><strong>What should I do in A+J at the first start?</strong></h1>
 </li>
 </ul>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://storage.googleapis.com/ordersuit/2024/01/28bf2722-business_man3_1_question.png" alt="アンボタンマナーって何❓-富山店ブログ-オーダースーツSADA" width="232" height="315" data-is-external-image="true"></figure>
@@ -802,16 +987,16 @@
 <p> </p>
 <ul>
 <li>
-<h1 class="align-center">🏛️ Phase 1: The First 24 Hours (<strong>SOP</strong>)</h1>
+<h1 id="mcetoc_1jj1uqrcc2so" class="align-center">🏛️ Phase 1: The First 24 Hours (<strong>SOP</strong>)</h1>
 </li>
 </ul>
-<h2><strong>1. Immediate Environmental Virtualization</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2sp"><strong>1. Immediate Environmental Virtualization</strong></h2>
 <ul style="list-style-type: square;">
 <li><strong>System Locale</strong>: Transition all primary devices (PC, Samsung Galaxy, Zen Browser) to the Japanese system language.</li>
 <li><br><strong>Audio Saturation</strong>: Begin 24/7 passive immersion by playing raw Japanese audio (podcasts, anime, radio) in your living space during all "dead time".</li>
 <li><br><strong>Sector Clearing</strong>: Remove English-based entertainment and social media feeds to prevent "immersion breakage".<br><br></li>
 </ul>
-<h2><br><strong>2. Tactical Tool Installation</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2sq"><br><strong>2. Tactical Tool Installation</strong></h2>
 <p> </p>
 <ul style="list-style-type: square;">
 <li><strong>SRS Foundation</strong>: Download and install <strong>Anki</strong>.</li>
@@ -819,7 +1004,7 @@
 <li><strong>Lexical Mining</strong>: Install the <strong>Rikaitan (Yomitan)</strong> extension in your browser for instant Japanese-to-English (and later J-J) lookups.</li>
 <li> </li>
 <li><strong>Media Interface</strong>: Set up <strong>mpv</strong> with the <strong>asbplayer</strong> or <strong>Animebook</strong> plugin to facilitate future sentence mining.
-<h3><br><strong>3. Initial Literacy &amp; Lexical Priming</strong></h3>
+<h3 id="mcetoc_1jj1uqrcc2sr"><br><strong>3. Initial Literacy &amp; Lexical Priming</strong></h3>
 </li>
 <li> </li>
 <li><strong>Orthography</strong>: Master <strong>Hiragana</strong> and <strong>Katakana</strong> immediately (estimated time: 2–5 days).</li>
@@ -828,7 +1013,7 @@
 <li> </li>
 <li><strong>The Goal</strong>: Reach the 1,000-word threshold to make active immersion semi-comprehensible.<hr></li>
 <li>
-<h2 class="align-center">🛡️ The Hierarchy of Operations (Priority Order)</h2>
+<h2 id="mcetoc_1jj1uqrcc2ss" class="align-center">🛡️ The Hierarchy of Operations (Priority Order)</h2>
 <p> </p>
 <table style="width: 100.035%; height: 323.812px;">
 <tbody>
@@ -865,7 +1050,7 @@
 <p> </p>
 <ul style="list-style-type: square;">
 <li>
-<h3 class="align-center">🗾 Why this order is mandatory:</h3>
+<h3 id="mcetoc_1jj1uqrcc2st" class="align-center">🗾 Why this order is mandatory:</h3>
 <p><br>If you start with <i>Genki</i> or textbooks first, you build a "translation layer" that creates a bottleneck in your brain. By starting with <strong>Immersion and Lexical Priming</strong>, you allow your brain to build its own internal "map" of the language, which the grammar textbooks will later simply confirm.</p>
 </li>
 <li> </li>
@@ -876,45 +1061,36 @@
 <p> </p>
 <ul>
 <li>
-<h1 class="align-center"><strong>Anki in A+J at the first start is fine?</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2su" class="align-center">Is Anki in A+J working well at the beginning?</h1>
 </li>
 </ul>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc_WK2qSG61fQOrUflGhS7XiPr16YOWoxf-jgJIvZHRaobGFVR" alt="PowerPoint プレゼンテーション" width="433" height="327" data-is-external-image="true"></figure>
+<p> </p>
 <ul>
-<li> </li>
 <li>In the <strong>A+J Procedure</strong>, using Anki at the very start is not just "fine"—it is <strong>technically mandatory</strong>.
 <p><br>However, there is a specific way to use it that separates an "Advanced User" from a "Casual Student." You must understand that Anki at the beginning is a <strong>"Bridge,"</strong> not the final destination.</p>
 </li>
 </ul>
 <p> </p>
 <p> </p>
+<h1 id="mcetoc_1jj1uqrcc2sv" class="align-center"><strong>🏛️ The Anki First-Start Protocol</strong></h1>
+<p class="align-center"><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG1-XN_D-XXCnqye5OXCm7t79ukkfE0T69Q3vtmgqsx_RXyVWkzuaZ_gQ7af2gURL-jA1uizj-ESOnjsExL3LVhhcY8u02UkumnQgCMRaYwfYlo9eWqH_KbUNRf2EW9VSSZST0HhrlkyY/s180-c/setsubun_aooni_angry.png" alt="怒るの検索結果 | かわいいフリー素材集 いらすとや" width="250" height="250" data-is-external-image="true"></p>
+<h1 id="mcetoc_1jj1uqrcc2t1" class="align-center"><strong>1. The "Mining" Prohibition</strong></h1>
 <ul>
-<li>
-<h1 class="align-center"><strong>🏛️ The Anki First-Start Protocol</strong></h1>
-</li>
-<li>
-<h1 class="align-center"><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG1-XN_D-XXCnqye5OXCm7t79ukkfE0T69Q3vtmgqsx_RXyVWkzuaZ_gQ7af2gURL-jA1uizj-ESOnjsExL3LVhhcY8u02UkumnQgCMRaYwfYlo9eWqH_KbUNRf2EW9VSSZST0HhrlkyY/s180-c/setsubun_aooni_angry.png" alt="怒るの検索結果 | かわいいフリー素材集 いらすとや" width="250" height="250" data-is-external-image="true"></h1>
-</li>
-<li>
-<h1 class="align-center"><br><strong>1. The "Mining" Prohibition</strong></h1>
-</li>
-<li> </li>
 <li><strong>The Rule:</strong> Do <strong>not</strong> try to "mine" (create) your own cards on Day 1.</li>
 <li><strong>The Reason:</strong> You do not yet have the "pattern recognition" to know what is worth mining. You will end up mining every single word, which leads to <strong>SRS Burnout</strong> and "Hell".</li>
 <li><strong>The Solution:</strong> Use a <strong>Pre-made Deck</strong> (Core 2k, Tango N5, or a "Most Frequent 1000" deck).
-<h2 class="align-center"><br><strong>2. The 1,000-Word Threshold</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2t2" class="align-center"><br><strong>2. The 1,000-Word Threshold</strong></h2>
 </li>
-<li> </li>
 <li>In the <strong>A+J Framework</strong>, the first 1,000 words are a "Sprint." Your goal is to get these into your brain as fast as possible to unlock <strong>Comprehensible Input</strong>.</li>
 <li>Until you hit this threshold, active immersion will feel like "noise." Anki turns that noise into "signal".
-<h2 class="align-center"><br><strong>3. Strategic Limitations</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2t3" class="align-center"><br><strong>3. Strategic Limitations</strong></h2>
 </li>
-<li> </li>
 <li>To maintain a "Pure Heart" and avoid the "Pricing/Greed Demons" of other apps, stick to the <strong>Free/Open Source Anki</strong> (AnkiWeb/AnkiDesktop).</li>
 <li><strong>Limit:</strong> Do not exceed 20 <i>new</i> cards per day at the start. Your reviews will snowball quickly, and you need to save your mental energy for <strong>Immersion</strong>, which is the real "Army".<hr></li>
 </ul>
 <p> </p>
-<h2><strong>⚙️ SRS Strategy (Phase 1)</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2t4"><strong>⚙️ SRS Strategy (Phase 1)</strong></h2>
 <ul>
 <li><strong>Primary Objective:</strong> Rapid lexical acquisition (0 to 1,000 words).</li>
 <li> </li>
@@ -927,7 +1103,7 @@
 <p> </p>
 <ul>
 <li>
-<h2>🛡️ The Verdict</h2>
+<h2 id="mcetoc_1jj1uqrcc2t5">🛡️ The Verdict</h2>
 </li>
 <li>
 <p>Yes, start Anki on <strong>Day 1</strong>. But remember: <strong>Anki is the "Support Vehicle," while Immersion is the "Main Tank."</strong> Never let your Anki reviews take more time than your Active Immersion.</p>
@@ -942,18 +1118,18 @@
 <p> </p>
 <p> </p>
 <p><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcURsrfnrY3dOFLEYP4QmQGxVU7vVAeP9DqgExa4Uy_q9bkWVu7llShDmBVDKcIfh23C9_KUyGZLapaAI-ybDMvxK0tNivCXDVVeFKpGvbFpn_BNA_VRBju-YuOXaXxNKsEYd6Gwon_8S/w1200-h630-p-k-no-nu/thumbnail_dougu_mark_spanner_hammer.jpg" alt="スパナとハンマーのイラスト | かわいいフリー素材集 いらすとや" width="369" height="194" data-is-external-image="true"></p>
-<h1><strong>🔗 Resources &amp; Tools</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2t6"><strong>🔗 Resources &amp; Tools</strong></h1>
 <ul style="list-style-type: circle;">
 <li><strong>Dictionary:</strong> <a>[[Rikaitan]]</a> or <a href="https://www.weblio.jp">[[weblio]]</a>, ETC.<br><strong>Grammar:</strong> <a>[[Cure Dolly]]</a> or <a>[[Tae Kim]]</a>, ETC.<br><strong>JLPT Resources:</strong> <a>[[JLPT Sensei]]</a>, ETC.​</li>
 </ul>
 <p> </p>
-<h1><strong>🛠️ Technical Stack Audit</strong></h1>
+<h1 id="mcetoc_1jj1uqrcc2t7"><strong>🛠️ Technical Stack Audit</strong></h1>
 <ul style="list-style-type: circle;">
 <li><strong>​Primary SRS</strong>: <a>[[Anki]]</a> (v2.1.x+)<br><strong>​Media Interface</strong>: <a>[[mpv]]</a> with asbplayer or Animebook for sentence extraction.<br><strong>​Lexical Lookup</strong>: <a>[[Rikaitan]]</a> (Yomitan) with high-frequency dictionaries.</li>
 </ul>
 <p> </p>
 <figure class="post__image post__image--left"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzMqkpQ7vLUKvumbm6AFwTLQiCe7tlDb2Q0MAiISLsesZHnhj0kbRjB4U3se3UrDIHfIy0hlahyphenhyphenQu-V2tOR2LcV_lX7U8P5a8jtqPYv3Ah4L-JoYi8PhoaoehumGIdp2vrsX0rRyhXqwA/s800/mark_chuui.png" alt="注意のマーク | かわいいフリー素材集 いらすとや" width="179" height="163" data-is-external-image="true"></figure>
-<h2><strong>Failure Points (Anti-Patterns)</strong></h2>
+<h2 id="mcetoc_1jj1uqrcc2t8"><strong>Failure Points (Anti-Patterns)</strong></h2>
 <ul style="list-style-type: circle;">
 <li><strong>Avoid </strong>"Over-mining" (limit new cards to 10–20/day to prevent SRS fatigue). <br><strong>​Avoid </strong>English-based grammar explanations after <strong>Phase 1</strong></li>
 </ul>
@@ -981,9 +1157,27 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/1/3-The-1st-tier-choice.png" class="type:primaryImage" alt="The A+J Official Logo" /></p>
-                <h1 data-path-to-node="3">THE A+J DOCTRINE: The Unified Theory of Japanese Mastery</h1>
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li> </li>
+<li><a href="#mcetoc_1jj1uq4an2du">THE A+J DOCTRINE: The Unified Theory of Japanese Mastery</a>
+<ul>
+<li><a href="#mcetoc_1jj1uq4an2dv">I. The Law of Dual Necessity (Yin &amp; Yang)</a></li>
+<li><a href="#mcetoc_1jj1uq4an2e0">II. The Doctrine of Simultaneity</a></li>
+<li><a href="#mcetoc_1jj1uq4an2e1">III. Modular Architecture (The "Mod" System)</a></li>
+<li><a href="#mcetoc_1jj1uq4an2e2">IV. The Strategic Summary</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h1 id="mcetoc_1jj1uq4an2dt" data-path-to-node="3"></h1>
+<h1 data-path-to-node="3"> </h1>
+<h1 data-path-to-node="3"> </h1>
+<h1 data-path-to-node="3"> </h1>
+<h1 id="mcetoc_1jj1uq4an2du" data-path-to-node="3">THE A+J DOCTRINE: The Unified Theory of Japanese Mastery</h1>
 <p data-path-to-node="4">The <strong data-path-to-node="4" data-index-in-node="4">A+J Method</strong> (AJATT + JLPT) is a dual-core approach to language acquisition. It rejects the "purist" conflict between traditional study and total immersion, instead unifying them into a singular, high-performance system.</p>
-<h2 data-path-to-node="5">I. The Law of Dual Necessity (Yin &amp; Yang)</h2>
+<h2 id="mcetoc_1jj1uq4an2dv" data-path-to-node="5">I. The Law of Dual Necessity (Yin &amp; Yang)</h2>
 <p data-path-to-node="6">Language mastery requires two distinct forces working in perfect equilibrium. To ignore one is to weaken the other.</p>
 <ul data-path-to-node="7">
 <li>
@@ -993,7 +1187,7 @@
 <p data-path-to-node="7,1,0"><strong data-path-to-node="7,1,0" data-index-in-node="0">The Essential (JLPT):</strong> The "Skeleton." Traditional study and textbooks are not "trash"—they are the <strong data-path-to-node="7,1,0" data-index-in-node="99">Master Key</strong>. They provide the logical structure required to organize the chaos of immersion. Without the JLPT framework, the mind has no map.</p>
 </li>
 </ul>
-<h2 data-path-to-node="8">II. The Doctrine of Simultaneity</h2>
+<h2 id="mcetoc_1jj1uq4an2e0" data-path-to-node="8">II. The Doctrine of Simultaneity</h2>
 <p data-path-to-node="9">One does not "switch" between AJATT and JLPT. You must exist within <strong data-path-to-node="9" data-index-in-node="68">both</strong> simultaneously.</p>
 <ul data-path-to-node="10">
 <li>
@@ -1003,7 +1197,7 @@
 <p data-path-to-node="10,1,0"><strong data-path-to-node="10,1,0" data-index-in-node="0">The Academic Core:</strong> Textbooks are utilized for <strong data-path-to-node="10,1,0" data-index-in-node="46">moderation and calibration</strong>. They serve as the benchmark to ensure your "Mythical" immersion is translating into "Essential" measurable skill.</p>
 </li>
 </ul>
-<h2 data-path-to-node="11">III. Modular Architecture (The "Mod" System)</h2>
+<h2 id="mcetoc_1jj1uq4an2e1" data-path-to-node="11">III. Modular Architecture (The "Mod" System)</h2>
 <p data-path-to-node="12">The A+J Method is the <strong data-path-to-node="12" data-index-in-node="22">Base Operating System (OS)</strong>. It is designed to be compatible with any external methodology.</p>
 <ul data-path-to-node="13">
 <li>
@@ -1013,7 +1207,7 @@
 <p data-path-to-node="13,1,0">The framework remains stable regardless of the "Mod" used, as long as the user adheres to the core balance of <strong data-path-to-node="13,1,0" data-index-in-node="110">Total Immersion + Academic Essentialism</strong>.</p>
 </li>
 </ul>
-<h2 data-path-to-node="14">IV. The Strategic Summary</h2>
+<h2 id="mcetoc_1jj1uq4an2e2" data-path-to-node="14">IV. The Strategic Summary</h2>
 <blockquote data-path-to-node="15">
 <p data-path-to-node="15,0">"The A+J Method is the synthesis of the 'Brother' philosophies. By recognizing the JLPT as the <strong data-path-to-node="15,0" data-index-in-node="95">Essential Key</strong> and AJATT as the <strong data-path-to-node="15,0" data-index-in-node="126">Mythical Environment</strong>, the practitioner achieves a state of total linguistic integration. We do not choose between the textbook and the world; we command both to achieve the Shogun Brain."</p>
 </blockquote>
