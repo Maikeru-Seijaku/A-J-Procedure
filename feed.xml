@@ -3,7 +3,7 @@
     <title>A+J Procedure</title>
     <link href="https://maikeru-seijaku.github.io/A-J-Procedure/feed.xml" rel="self" />
     <link href="https://maikeru-seijaku.github.io/A-J-Procedure" />
-    <updated>2026-03-06T18:38:05+02:00</updated>
+    <updated>2026-03-06T18:45:47+02:00</updated>
     <author>
         <name>Maikeru-Seijaku</name>
     </author>
@@ -317,7 +317,7 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://maikeru-seijaku.github.io/A-J-Procedure/media/posts/4/ai_study_kikaigakusyu.png" alt="" />
-                    📝 Method Overview [ ] New Cards: 10–20 cards/day (Adjust based on retention). [ ] Mining Yield: Create 1 card&hellip;
+                    📝 Method Overview Objective: Combine the high-volume immersion of AJATT (All Japanese All The Time) with the structured milestones of&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -337,7 +337,7 @@
 </li>
 <li><a href="#mcetoc_1jj1uqrcc2rb">⏱️ Standard Operating Procedure</a>
 <ul>
-<li>
+<li style="list-style-type: none;">
 <ul>
 <li><a href="#mcetoc_1jj1uqrcc2rc">(Daily Workflow)</a></li>
 </ul>
@@ -352,7 +352,7 @@
 <li><a href="#mcetoc_1jj1uqrcc2rh">3. Low-Cognition Immersion (Passive)</a></li>
 <li><a href="#mcetoc_1jj1uqrcc2ri">4. End-of-Day Audit</a>
 <ul>
-<li>
+<li style="list-style-type: none;">
 <ul>
 <li><a href="#mcetoc_1jj1uqrcc2rj">Pomodoro O and X in A+J</a></li>
 </ul>
@@ -377,13 +377,13 @@
 </li>
 <li><a href="#mcetoc_1jj1uqrcc2rv">🕒 What is "40 Minutes"?</a>
 <ul>
-<li>
+<li style="list-style-type: none;">
 <ul>
-<li>
+<li style="list-style-type: none;">
 <ul>
-<li>
+<li style="list-style-type: none;">
 <ul>
-<li>
+<li style="list-style-type: none;">
 <ul>
 <li> </li>
 </ul>
@@ -419,7 +419,7 @@
 </li>
 <li><a href="#mcetoc_1jj1uqrcc2sc">🛡️ Tactical Guidelines for Each Sector</a>
 <ul>
-<li>
+<li style="list-style-type: none;">
 <ul>
 <li><a href="#mcetoc_1jj1uqrcc2sd">Anki (The Maintenance State)</a></li>
 <li><a href="#mcetoc_1jj1uqrcc2se">Genki &amp; JLPT Books (The Structural State)</a></li>
@@ -473,8 +473,7 @@
 </ul>
 </div>
 <figure class="post__image post__image--left"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Lcv21AgrDnvM6ZypK6rRHmMd0r91BqWxj-SVP6VXZqXseT9Ofk-KW-0XrxK8NLrtKyQYTqhH5ATwmiZHSG0jvQ8iBmkJ-e19oEsl6Ma9QGLelNvj36c9jLhADqsJ_2mYemRbdS1r2pnR/s800/ai_character4_strong.png" alt="成長する人工知能のキャラクター | かわいいフリー素材集 いらすとや" width="317" height="383" data-is-external-image="true"></figure>
-<h1 id="mcetoc_1jj1uqrcc2r7" class="align-center">📝 Method Overview</h1>
-<p> </p>
+<h2 id="mcetoc_1jj1uqrcc2r7" class="align-center">📝 Method Overview</h2>
 <ul>
 <li class="align-left"><strong>Objective:</strong> Combine the high-volume immersion of <strong>AJATT</strong> (All Japanese All The Time) with the structured milestones of the <strong>JLPT</strong> (N5-N1).</li>
 </ul>
@@ -482,6 +481,7 @@
 <ul>
 <li class="align-left"><strong>The Goal:</strong> Achieving "natural" fluency while ensuring the formal requirements for certification are met.<hr></li>
 </ul>
+<h2> </h2>
 <h2 id="mcetoc_1jj1uqrcc2r9" class="align-center">⚙️ System Pillars</h2>
 <ul class="align-center">
 <li class="align-left"><strong>Active Immersion:</strong> Focused time spent consuming native content (Anime, Manga, Literature, YouTube, etc.) with a dictionary.</li>
@@ -517,6 +517,7 @@
 </li>
 </ul>
 <p class="align-center"> </p>
+<p> </p>
 <ul class="align-center">
 <li>
 <h2 id="mcetoc_1jj1uqrcc2rb"><strong>⏱️ Standard Operating Procedure</strong></h2>
@@ -538,7 +539,7 @@
 </ul>
 <p class="align-left">[ ] <strong>New Cards:</strong> 10–20 cards/day (Adjust based on retention).</p>
 <h1 id="mcetoc_1jj1uqrcc2rf" class="align-center"></h1>
-<h1 id="mcetoc_1jj1uqrcc2rg" class="align-center"><br><strong>2. High-Cognition Immersion (Active)</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2rg" class="align-center"><br><strong>2. High-Cognition Immersion (Active)</strong></h2>
 <p> </p>
 <ul class="align-center">
 <li class="align-left"><strong>Protocol:</strong> Undivided attention on native media. Dictionary lookups (<code>Cmd+F</code> / <code>Shift</code>) are mandatory for unknown terms ($i+1$).</li>
@@ -551,7 +552,7 @@
 </li>
 </ul>
 <p class="align-left">[ ] <strong>Mining Yield:</strong> Create 1 card for every 10–15 minutes of active immersion.</p>
-<h1 id="mcetoc_1jj1uqrcc2rh" class="align-center"><br><strong>3. Low-Cognition Immersion (Passive)</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2rh" class="align-center"><br><strong>3. Low-Cognition Immersion (Passive)</strong></h2>
 <p class="align-center"> </p>
 <ul class="align-center">
 <li class="align-left"><strong>Protocol:</strong> Continuous audio playback during all non-cognitive tasks (commuting, chores, exercise, work).</li>
@@ -563,9 +564,7 @@
 </ul>
 </li>
 </ul>
-<h1 id="mcetoc_1jj1uqrcc2ri" class="align-center"><strong>4. End-of-Day Audit</strong></h1>
-<p class="align-center"> </p>
-<p class="align-center"> </p>
+<h2 id="mcetoc_1jj1uqrcc2ri" class="align-center"><strong>4. End-of-Day Audit</strong></h2>
 <ul class="align-center">
 <li><hr></li>
 </ul>
@@ -575,13 +574,13 @@
 <ul class="align-center">
 <li>
 <h3 id="mcetoc_1jj1uqrcc2rj" class="align-center"><strong>Pomodoro O and X in A+J</strong></h3>
-<h1 id="mcetoc_1jj1uqrcc2rk" class="align-center">🚫 WHERE TO BAN POMODORO</h1>
+<h2 id="mcetoc_1jj1uqrcc2rk" class="align-center">🚫 WHERE TO BAN POMODORO</h2>
 </li>
 <li> </li>
 <li><figure class="post__image post__image--center"><img loading="lazy"  src="https://thumb.ac-illust.com/94/94a99ad5db8bf71dcd87fa4a434660b5_t.jpeg" alt="ひらめくビジネスマン07に似ているイラスト素材｜無料イラスト・フリー素材なら「イラストAC」" width="274" height="383" data-is-external-image="true"></figure></li>
 <li>
 <h1 id="mcetoc_1jj1uqrcc2rl" class="align-center"></h1>
-<h1 id="mcetoc_1jj1uqrcc2rm" class="align-center">The "Immersion Sector"</h1>
+<h2 id="mcetoc_1jj1uqrcc2rm" class="align-center">The "Immersion Sector"</h2>
 <p class="align-left"><br><strong>Do NOT use Pomodoro for Active Immersion (Reading/Listening).</strong></p>
 </li>
 <li class="align-left"><strong>The Reason:</strong> Immersion relies on "Flow State." If you are 40 minutes into a visual novel or an anime and the timer goes <i>DING</i>, you snap out of the Japanese world and back into your physical room. This breaks the "virtualization."</li>
@@ -630,7 +629,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 id="mcetoc_1jj1uqrcc2rq" class="align-center"><strong>Is Genki truly essential for implementing the Pomodoro technique?</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2rq" class="align-center"><strong>Is Genki truly essential for implementing the Pomodoro technique?</strong></h2>
 </li>
 </ul>
 <p class="align-center"> </p>
@@ -657,6 +656,10 @@
 </li>
 </ul>
 <p class="align-center"> </p>
+<ul>
+<li><hr></li>
+</ul>
+<p> </p>
 <ul class="align-center">
 <li>
 <h1 id="mcetoc_1jj1uqrcc2rr"><strong>🛡️ The "Genki" Hazard Warning</strong></h1>
@@ -702,7 +705,7 @@
 <p> </p>
 <hr></li>
 <li>
-<h1 id="mcetoc_1jj1uqrcc2rv" class="align-center"><strong>🕒 What is "40 Minutes"?</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2rv" class="align-center"><strong>🕒 What is "40 Minutes"?</strong></h2>
 </li>
 <li>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwpeMPVVjq7RvzMdjof3WXwpUXTZdFKXjmfzRRo3buxf13ydquLpvPWR5kl8AycGrnOTx0qODbk_nJXz1prTLsaAJoZykWKhY2QQaPeIVm3YWvsy0win5EES3aMRIrb5MqU6z8iFvKgslJ/s800/komatta_woman2.png" alt="困る女性のイラスト | かわいいフリー素材集 いらすとや" width="329" height="366" data-is-external-image="true"></figure>
@@ -726,16 +729,14 @@
 <li class="align-left"><strong>Apply these to:</strong> Anki, Genki, and JLPT drill books.</li>
 <li> </li>
 <li class="align-left"><strong>Avoid these for:</strong> Active Immersion (Anime, Manga, Visual Novels). As established, you should never break your "Flow State" with a timer while consuming native media, as it disrupts the virtualization of your Japanese environment.</li>
+</ul>
+<p> </p>
+<ul>
 <li><hr></li>
 </ul>
-<p class="align-center"> </p>
-<p class="align-center"> </p>
-<ul class="align-center">
-<li>
-<h1 id="mcetoc_1jj1uqrcc2s3" class="align-center"><strong>🏛️ Timer Setup: The Temporal Protocol</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2s3" class="align-center"><strong>🏛️ Timer Setup: The Temporal Protocol</strong></h2>
 <p><br>For a professional and "Pure Heart" setup, we recommend using open-source or system-native tools to avoid "Pricing Terrorists" and unnecessary distractions.</p>
-</li>
-</ul>
+<p> </p>
 <p class="align-center"> </p>
 <p> </p>
 <ul class="align-center">
@@ -762,7 +763,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 id="mcetoc_1jj1uqrcc2s6" class="align-center"><strong>2. Tactical Configuration</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2s6" class="align-center"><strong>2. Tactical Configuration</strong></h2>
 <p> </p>
 <table>
 <tbody>
@@ -802,7 +803,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 id="mcetoc_1jj1uqrcc2s8" class="align-center"><strong>🛡️ Final Strategy Note for the procedure</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2s8" class="align-center"><strong>🛡️ Final Strategy Note for the procedure</strong></h2>
 <p><br>"<em>Timers are for the Machine (Anki/Genki). The Soul (Immersion) requires no clock. If you find yourself checking the time during an anime, your content is not engaging enough—switch to a higher-interest 'Sector' immediately.</em>"</p>
 </li>
 </ul>
@@ -861,7 +862,7 @@
 <p class="align-center"> </p>
 <ul class="align-center">
 <li>
-<h1 id="mcetoc_1jj1uqrcc2sc" class="align-center"><strong>🛡️ Tactical Guidelines for Each Sector</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2sc" class="align-center"><strong>🛡️ Tactical Guidelines for Each Sector</strong></h2>
 </li>
 </ul>
 <p class="align-center"> </p>
@@ -923,7 +924,7 @@
 <p class="align-center"> </p>
 <ul>
 <li>
-<h1 id="mcetoc_1jj1uqrcc2si" class="align-center"><strong>Immersion first or...?</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2si" class="align-center"><strong>Immersion first or...?</strong></h2>
 </li>
 </ul>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOii5gmD9kcxY1ZWXRoTeR2YmfT7tsaQpgr4KMgeMiXGWab_V6xMhptnSAT9UhPvvvF4Y3BDHguVwRZqHcViulkszpmBf0lOYIUyZFnG44jwJRcUK98uvIhkauiAgLYXbbFOOgOzhFPp0/s800/fukidashi7_man.png" alt="いろいろな考え事をしている人たちのイラスト（ふきだし） | かわいいフリー素材集 いらすとや" width="346" height="346" data-is-external-image="true"></figure>
@@ -976,7 +977,7 @@
 <p> </p>
 <ul>
 <li>
-<h1 id="mcetoc_1jj1uqrcc2sn" class="align-center"><strong>What should I do in A+J at the first start?</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2sn" class="align-center"><strong>What should I do in A+J at the first start?</strong></h2>
 </li>
 </ul>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://storage.googleapis.com/ordersuit/2024/01/28bf2722-business_man3_1_question.png" alt="アンボタンマナーって何❓-富山店ブログ-オーダースーツSADA" width="232" height="315" data-is-external-image="true"></figure>
@@ -987,7 +988,7 @@
 <p> </p>
 <ul>
 <li>
-<h1 id="mcetoc_1jj1uqrcc2so" class="align-center">🏛️ Phase 1: The First 24 Hours (<strong>SOP</strong>)</h1>
+<h2 id="mcetoc_1jj1uqrcc2so" class="align-center">🏛️ Phase 1: The First 24 Hours (<strong>SOP</strong>)</h2>
 </li>
 </ul>
 <h2 id="mcetoc_1jj1uqrcc2sp"><strong>1. Immediate Environmental Virtualization</strong></h2>
@@ -1061,7 +1062,7 @@
 <p> </p>
 <ul>
 <li>
-<h1 id="mcetoc_1jj1uqrcc2su" class="align-center">Is Anki in A+J working well at the beginning?</h1>
+<h2 id="mcetoc_1jj1uqrcc2su" class="align-center">Is Anki in A+J working well at the beginning?</h2>
 </li>
 </ul>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc_WK2qSG61fQOrUflGhS7XiPr16YOWoxf-jgJIvZHRaobGFVR" alt="PowerPoint プレゼンテーション" width="433" height="327" data-is-external-image="true"></figure>
@@ -1073,9 +1074,9 @@
 </ul>
 <p> </p>
 <p> </p>
-<h1 id="mcetoc_1jj1uqrcc2sv" class="align-center"><strong>🏛️ The Anki First-Start Protocol</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2sv" class="align-center"><strong>🏛️ The Anki First-Start Protocol</strong></h2>
 <p class="align-center"><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG1-XN_D-XXCnqye5OXCm7t79ukkfE0T69Q3vtmgqsx_RXyVWkzuaZ_gQ7af2gURL-jA1uizj-ESOnjsExL3LVhhcY8u02UkumnQgCMRaYwfYlo9eWqH_KbUNRf2EW9VSSZST0HhrlkyY/s180-c/setsubun_aooni_angry.png" alt="怒るの検索結果 | かわいいフリー素材集 いらすとや" width="250" height="250" data-is-external-image="true"></p>
-<h1 id="mcetoc_1jj1uqrcc2t1" class="align-center"><strong>1. The "Mining" Prohibition</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2t1" class="align-center"><strong>1. The "Mining" Prohibition</strong></h2>
 <ul>
 <li><strong>The Rule:</strong> Do <strong>not</strong> try to "mine" (create) your own cards on Day 1.</li>
 <li><strong>The Reason:</strong> You do not yet have the "pattern recognition" to know what is worth mining. You will end up mining every single word, which leads to <strong>SRS Burnout</strong> and "Hell".</li>
@@ -1118,12 +1119,12 @@
 <p> </p>
 <p> </p>
 <p><img loading="lazy" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcURsrfnrY3dOFLEYP4QmQGxVU7vVAeP9DqgExa4Uy_q9bkWVu7llShDmBVDKcIfh23C9_KUyGZLapaAI-ybDMvxK0tNivCXDVVeFKpGvbFpn_BNA_VRBju-YuOXaXxNKsEYd6Gwon_8S/w1200-h630-p-k-no-nu/thumbnail_dougu_mark_spanner_hammer.jpg" alt="スパナとハンマーのイラスト | かわいいフリー素材集 いらすとや" width="369" height="194" data-is-external-image="true"></p>
-<h1 id="mcetoc_1jj1uqrcc2t6"><strong>🔗 Resources &amp; Tools</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2t6"><strong>🔗 Resources &amp; Tools</strong></h2>
 <ul style="list-style-type: circle;">
 <li><strong>Dictionary:</strong> <a>[[Rikaitan]]</a> or <a href="https://www.weblio.jp">[[weblio]]</a>, ETC.<br><strong>Grammar:</strong> <a>[[Cure Dolly]]</a> or <a>[[Tae Kim]]</a>, ETC.<br><strong>JLPT Resources:</strong> <a>[[JLPT Sensei]]</a>, ETC.​</li>
 </ul>
 <p> </p>
-<h1 id="mcetoc_1jj1uqrcc2t7"><strong>🛠️ Technical Stack Audit</strong></h1>
+<h2 id="mcetoc_1jj1uqrcc2t7"><strong>🛠️ Technical Stack Audit</strong></h2>
 <ul style="list-style-type: circle;">
 <li><strong>​Primary SRS</strong>: <a>[[Anki]]</a> (v2.1.x+)<br><strong>​Media Interface</strong>: <a>[[mpv]]</a> with asbplayer or Animebook for sentence extraction.<br><strong>​Lexical Lookup</strong>: <a>[[Rikaitan]]</a> (Yomitan) with high-frequency dictionaries.</li>
 </ul>
